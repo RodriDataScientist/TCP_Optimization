@@ -19,3 +19,6 @@
 
 - **`02_TCP_distribution.py`**  
   Statistical analysis and visualization of the 1000-run results, highlighting the detected *outlier*.  
+
+- **`distances_asymmetric.csv`**
+  CSV file with asymmetric distances' matrix 
